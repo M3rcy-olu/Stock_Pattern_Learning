@@ -1,6 +1,6 @@
 This program uses data to draw patterns in stock market data
 From these line patterns I used k-means clustering to categorize the patterns 
-With these categories of patterns I find which categories tend to lean toward the price either going up or down after the pattern is spotted
+With these categories of patterns I analyze if some categories tend to lean toward the price either going up or down after the pattern is spotted
 The last part is the trading algorithm which trade uses identified patterns that lead to predicted price movement
 
 What can I add to this later
